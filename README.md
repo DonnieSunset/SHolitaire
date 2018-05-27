@@ -1,0 +1,3 @@
+# SHoitaire
+
+A Solitaire Clone.
