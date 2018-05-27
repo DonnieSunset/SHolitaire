@@ -1,3 +1,3 @@
-# SHoitaire
+# SHolitaire
 
 A Solitaire Clone.
